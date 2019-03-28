@@ -1,2 +1,4 @@
 this is learngit file
-frist use
+frist us
+this is user
+e
